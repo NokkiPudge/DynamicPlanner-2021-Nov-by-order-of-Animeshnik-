@@ -1,0 +1,10 @@
+C:\Users\pidge\source\repos\Daily planner\bin\Debug\Daily planner.exe.config
+C:\Users\pidge\source\repos\Daily planner\bin\Debug\Daily planner.exe
+C:\Users\pidge\source\repos\Daily planner\bin\Debug\Daily planner.pdb
+C:\Users\pidge\source\repos\Daily planner\obj\Debug\Daily planner.csproj.AssemblyReference.cache
+C:\Users\pidge\source\repos\Daily planner\obj\Debug\Daily_planner.Form1.resources
+C:\Users\pidge\source\repos\Daily planner\obj\Debug\Daily_planner.Properties.Resources.resources
+C:\Users\pidge\source\repos\Daily planner\obj\Debug\Daily planner.csproj.GenerateResource.cache
+C:\Users\pidge\source\repos\Daily planner\obj\Debug\Daily planner.csproj.CoreCompileInputs.cache
+C:\Users\pidge\source\repos\Daily planner\obj\Debug\Daily planner.exe
+C:\Users\pidge\source\repos\Daily planner\obj\Debug\Daily planner.pdb
